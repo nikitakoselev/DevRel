@@ -9,6 +9,7 @@ The table is sorted by number of followers on Twitter. Please do not correlate n
 | Catalin           | Tweeting about engineering, technical writing and other adjacent topics. Follow along!                           | @catalinmpit     | 117K                | https://twitter.com/catalinmpit     |
 | Peter Zaitsev     | Founder at Percona                                                                                               | @PeterZaitsev    | 46K                 | https://twitter.com/PeterZaitsev    |
 | Samina            | DevRel at ThirdWeb                                                                                               | @saminacodes     | 31K                 | https://twitter.com/saminacodes     |
+| Clint Gibler      | Head of Security research @semgrep                                                                               | @clintgibler     | 13.8K               | https://twitter.com/clintgibler     |
 | David Neal        | Ambassador at Awesome                                                                                            | @reverentgeek    | 12.2K               | https://twitter.com/reverentgeek    |
 | Michael Callaghan | Lead Software Engineer at Disney                                                                                 | @walkingriver    | 5K                  | https://twitter.com/walkingriver    |
 | Sherin Matthew    | AI strategist with impressive following on LinkedIn                                                              | @Sherin_AI       | 1.8K                | https://twitter.com/Sherin_AI       |
@@ -17,5 +18,4 @@ The table is sorted by number of followers on Twitter. Please do not correlate n
 | Tatiana Botskina  | Oxford DPhil in Computer Science. Entrepreneur, Lawyer, and ML Researcher. Forbes30u30. Founder of @mintycodedao | @tbotskina       | 0.082k              | https://twitter.com/tbotskina       |
 | Oliver Cronk      | Tech Director at Scott Logic                                                                                     | @cronky          | 0.8K                | https://twitter.com/cronky          |
 | LawrenceDCodes    | Amazing self-made developer                                                                                      | @LawrenceDCodes  | 9K                  | https://twitter.com/LawrenceDCodes  |
-
 
