@@ -10,6 +10,7 @@ The table is sorted by number of followers on Twitter. Please do not correlate n
 | Peter Zaitsev       | Founder at Percona                                                                                               | @PeterZaitsev    | 46K                 | https://twitter.com/PeterZaitsev    |
 | Liam 'Akiba' Wright | Senior Editor at CryptoSlate                                                                                     | @akibablade      | 41K                 | https://twitter.com/akibablade      |
 | Samina              | DevRel at ThirdWeb                                                                                               | @saminacodes     | 31K                 | https://twitter.com/saminacodes     |
+| Percona             | Open source Databases                                                                                            | @Percona         | 17K                 | https://twitter.com/Percona         |
 | Clint Gibler        | Head of Security research @semgrep                                                                               | @clintgibler     | 13.8K               | https://twitter.com/clintgibler     |
 | David Neal          | Ambassador at Awesome                                                                                            | @reverentgeek    | 12.2K               | https://twitter.com/reverentgeek    |
 | LawrenceDCodes      | Amazing self-made developer                                                                                      | @LawrenceDCodes  | 9K                  | https://twitter.com/LawrenceDCodes  |
@@ -19,4 +20,3 @@ The table is sorted by number of followers on Twitter. Please do not correlate n
 | MintyCode           | Decentralised IP Marketplace for Software Creators. Fixing broken open-source model                              | @MintyCodeDao    | 0.062K              | https://twitter.com/MintyCodeDao    |
 | Tatiana Botskina    | Oxford DPhil in Computer Science. Entrepreneur, Lawyer, and ML Researcher. Forbes30u30. Founder of @mintycodedao | @tbotskina       | 0.082k              | https://twitter.com/tbotskina       |
 | Oliver Cronk        | Tech Director at Scott Logic                                                                                     | @cronky          | 0.8K                | https://twitter.com/cronky          |
-
