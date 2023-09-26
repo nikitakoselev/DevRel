@@ -4,3 +4,4 @@ Even if you do not know the authors, we will try to reach out to them and organi
 
 OSS Proect discussion requests:
 * Common Room
+* CHAOSS
