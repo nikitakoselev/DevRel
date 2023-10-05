@@ -10,3 +10,4 @@ OSS Project discussion requests:
 * Codecademy (proposed by @CodesChrissy in https://twitter.com/NikitaKoselev/status/1709457128077828138)
 * AppSmith (proposed  by @KevinBlancoZ in https://www.linkedin.com/feed/update/urn:li:activity:7115220198453829632/)
 * OpenZiti (proposed by @Philip Griffiths in https://www.linkedin.com/feed/update/urn:li:activity:7115220198453829632/)
+* OSTIF (proposed by Sal Kimmich)
