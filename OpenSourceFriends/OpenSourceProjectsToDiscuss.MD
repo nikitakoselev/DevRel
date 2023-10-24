@@ -11,3 +11,4 @@ OSS Project discussion requests:
 * AppSmith (proposed  by @KevinBlancoZ in https://www.linkedin.com/feed/update/urn:li:activity:7115220198453829632/)
 * OpenZiti (proposed by @Philip Griffiths in https://www.linkedin.com/feed/update/urn:li:activity:7115220198453829632/)
 * OSTIF (proposed by Sal Kimmich)
+* MetaGPT (proposed by @mart_cpp in https://twitter.com/NikitaKoselev/status/1709457128077828138)
